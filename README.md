@@ -9,21 +9,31 @@
 - ⚡ Fun fact: ...
 -->
 
-# 안녕하세요, 여현정입니다
+# Hi, this is HyeonJeong
 
-데이터 분석 및 모델링과 관련한 프로젝트를 기록하고 있습니다.
+I work on ML proejcts to solve problems.
 
-Multimodal 및 sequential problem이 주요 관심사입니다 🧚🏻
+Currently I'm interested in 3D vision data and time-spatial mapping problems. 🧚🏻
 
-## Tech Stacks
 
-<img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Git-blue?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-Tensorflow-blue?style=flat&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/-PyTorch-blue?style=flat&logo=PyTorch&logoColor=white">
+### Ongoing projects
 
-## 더 알아보기
-- 이메일 : hynjng.yeo@gmail.com
-- 블로그 : https://nearnear.github.io
+- Omdena Brussels Local Chapter Project, Dark corridors
+
+### Finished projects
+
+- FastAPI document translation
+- Score Clinical Patients, NBME, Kaggle (NLP)
+- Kaggle Tabular Playground Series
+
+### reach me via 
+
+- 🅶 hynjng.yeo@gmail.com
+- 🅻 www.linkedin.com/in/hyeonjeongyeo 
+- 🏕 https://nearnear.github.io (KOR)
+  
  
+<img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Git-blue?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-Tensorflow-blue?style=flat&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/-PyTorch-blue?style=flat&logo=PyTorch&logoColor=white">
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnearnear%2Fnearnear&count_bg=%236297F1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nearnear/nearnear">
-
