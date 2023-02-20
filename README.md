@@ -19,12 +19,13 @@ Currently I'm interested in 3D vision data and time-spatial mapping problems. ðŸ
 ### Ongoing projects
 
 - Omdena Brussels Local Chapter Project, Dark corridors
+- Omdena Sri Lanka Local Chapter Project, Predicting Autism in Toddlers
 
 ### Finished projects
 
 - FastAPI document translation
-- Score Clinical Patients, NBME, Kaggle (NLP)
-- Kaggle Tabular Playground Series
+- Score Clinical Patient Interviews, NBME, Kaggle
+- Kaggle Tabular Playground Series, 2022
 
 ### reach me via 
 
