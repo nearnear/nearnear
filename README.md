@@ -25,12 +25,11 @@ Currently I'm interested in 3D vision data and time-spatial mapping problems. ðŸ
   - Building AI Agent system for question answering based on Tabular Documents using Langchain and Langgraph.
 - Develop Automated Product Categorification System in E-commerce shop (GS shop / 8 months)
   - Data Cleansing & Analysis, Finetuning BERT, and Creating Retrain pipeline for category changes.
-- ~~Omdena Brussels Local Chapter Project, Dark corridors~~
 - Predicting Autism in Toddlers (Omdena Sri Lanka Local Chapter Project / 3 months)
   - Prediction Autism via toddler dialogue patterns with their parents
 - FastAPI document translation (KOR)
 - Score Clinical Patient Interviews, NBME, Kaggle
-- Kaggle Tabular Playground Series, 2021
+- Tabular Playground Series, 2021, Kaggle (17th)
 
 ### reach me via 
 
