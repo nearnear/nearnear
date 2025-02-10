@@ -17,23 +17,26 @@ Currently I'm interested in 3D vision data and time-spatial mapping problems. �
 
 
 ### Ongoing projects
-- AI News summarizing Web service
-- Gatsby blog
+- Loading...
 
 ### Finished projects
 
-- Omdena Brussels Local Chapter Project, Dark corridors
+- Building & Maintaining Automated Product Categorification System in E-commerce shop (GS shop, 8 months)
+  - Data Cleansing & Analysis, PLM & BERT finetuning, and Model Maintenance for category changes.
+- ~~Omdena Brussels Local Chapter Project, Dark corridors~~
 - Omdena Sri Lanka Local Chapter Project, Predicting Autism in Toddlers
-- FastAPI document translation
+    - Prediction Autism via toddler dialogue patterns with their parents
+- FastAPI document translation (KOR)
 - Score Clinical Patient Interviews, NBME, Kaggle
 - Kaggle Tabular Playground Series, 2021
 
 ### reach me via 
 
 - 🅶 hynjng.yeo@gmail.com
-- 🅻 www.linkedin.com/in/hyeonjeongyeo 
+- 🅻 www.linkedin.com/in/hyeonjeongyeo
+<!--
 - 🏕 https://nearnear.github.io (KOR)
-  
+-->
  
 <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Git-blue?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/-Tensorflow-blue?style=flat&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/-PyTorch-blue?style=flat&logo=PyTorch&logoColor=white">
 
